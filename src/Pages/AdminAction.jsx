@@ -363,7 +363,7 @@ const AdminAction = () => {
                 <table className="table table-hover ">
                     <thead>
                         <tr>
-                            <th scope="col">Si.No.</th>
+                            <th scope="col">SI.No.</th>
                             <th scope="col">Month-Year</th>
                             <th scope="col">Member Number</th>
                             <th scope="col">Full Name</th>
