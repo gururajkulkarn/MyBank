@@ -28,11 +28,7 @@ function Home() {
         <div className="main-cards">
 
 
-<<<<<<< HEAD
-        <Link to="/financesetting">  <button className="btn btn-primary"><h4>Finantial Settings sdkfhsdkjfhjsfhks</h4></button></Link>
-=======
-        <Link to="/financesetting">  <button className="btn btn-primary"><h4>Finantial Settings</h4></button></Link>
->>>>>>> 5c9d9e783bf926660877d85b66a4a9d1e10736c7
+        <Link to="/financesetting">  <button className="btn btn-primary"><h4>Finantial Settings 1</h4></button></Link>
         <Link to="/newmember">  <button className="btn btn-primary"><h4>Create Member</h4></button> </Link>
         <Link to="/sanctionLoan"><button className="btn btn-primary"><h4>Sanction Loan</h4></button> </Link> 
         <Link to="/adminaction"><button className="btn btn-primary"><h4>Monthly Entry </h4></button> </Link> 
